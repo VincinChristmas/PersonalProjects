@@ -1,8 +1,10 @@
 body {
-    background-image: url(codingbootcamp.jpeg);
-    background-size: cover;
+background-image: url('codingbootcamp.jpeg');
+background-size: cover;
 }
 
-background-image {
-    filter: blur();
+.mainsurvey {
+    color: white;
 }
+
+
