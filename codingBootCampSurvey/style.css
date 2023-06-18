@@ -5,6 +5,16 @@ background-size: cover;
 
 .mainsurvey {
     color: white;
+    background: #a3a375;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+}
+
+.thetitle {
+    text-align: center;
+    padding-top: 10px;
 }
 
 
