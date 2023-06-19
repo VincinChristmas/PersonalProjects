@@ -6,7 +6,7 @@ background-size: cover;
 .mainsurvey {
     color: white;
     background: #a3a375;
-    width: 80%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 3em;
@@ -16,5 +16,24 @@ background-size: cover;
     text-align: center;
     padding-top: 10px;
 }
+
+fieldset {
+    border: none;
+    font-size: 20px;
+}
+
+.personal {
+    margin-top: 5%;
+}
+
+#firstname, #lastname, #age, #course {
+    display: block;
+}
+
+.studies label {
+    display: block;
+    
+}
+
 
 
