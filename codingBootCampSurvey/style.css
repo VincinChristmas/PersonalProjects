@@ -24,15 +24,33 @@ fieldset {
 
 .personal {
     margin-top: 5%;
+    text-align: center;
+    
+}
+
+.course {
+    text-align: center;
 }
 
 #firstname, #lastname, #age, #course {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .studies label {
     display: block;
     
+}
+
+legend {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sexcontainer {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
